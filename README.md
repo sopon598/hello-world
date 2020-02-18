@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8" />
 	<title>Shape Up!</title>
-	<link rel="shortcut icon"
+	<link rel="shortcut icon" href="images/favicon.ico">
 </head>
 
 <body>
